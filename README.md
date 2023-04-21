@@ -19,14 +19,15 @@ Here at Eatary it is our mission to bring thousands of recipes to you at the tou
 ## Installation
 Clone the repo here, run "npm install if no packages are installed",run "npm run build" and finally run "npm run develop"
 
-https://github.com/jarrettbutler/Eatary
+
 
 or watch the video here:
 
 https://drive.google.com/file/d/1WFAVmmCox3s4VxBWv9AwnRnSnEfULtpx/view
 
-or visit the deployed site here
+or visit the deployed site here :
 
+ https://eatary.herokuapp.com/
 
 
 ## Usage
@@ -41,8 +42,8 @@ https://github.com/RufatEskendarov
 Feliks Borshchevskyi
 https://github.com/felixbor
 
-Zaira Barakaeva
-https://github.com/ZairaBarry
+Jarrett Butler 
+https://github.com/jarrettbutler
 
 
 ## License
@@ -59,12 +60,4 @@ Add recipes
 ## Tests
 Run the installation instructions and watch the magic happen
 
-## Github
-https://github.com/jarrettbutler/Eatary
 
-## Contact
-Jarrett Butler
-
-jbutler98@hotmail.com
-
-https://github.com/jarrettbutler
